@@ -8,6 +8,7 @@ def speak_to_grandma method(name)
     puts "I LOVE YOU TOO PUMPKIN!"
    
   end
+ end 
   
   speak_to_grandma("HELLO")
   speak_to_grandma("ola")
